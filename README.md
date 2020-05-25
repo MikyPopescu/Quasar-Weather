@@ -2,6 +2,8 @@
 
 A Quasar Framework app
 
+### Demo : https://miky-quasar-weather.netlify.app/#/
+
 ## Install the dependencies
 ```bash
 npm install
